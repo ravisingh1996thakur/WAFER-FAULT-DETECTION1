@@ -25,7 +25,7 @@ PyYAML
 regexp
 scikit-learn
 six
-sklearn
+scikit-learn
 Werkzeug
 wincertstore
 xgboost
